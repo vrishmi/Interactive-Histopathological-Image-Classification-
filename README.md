@@ -1,15 +1,5 @@
 # Interactive Histopathological Image Segmentation
 
-## Table of Contents
-- **Introduction**
-- **Features**
-- **Technologies Used**
-- **Setup and Installation**
-- **Usage**
-- **Docker Instructions**
-- **File Structure**
-- **Contributing**
-
 ## Introduction
 Digital pathology allows us to capture, manage, and share information from digitized tissue samples in a digital environment. This offers many benefits, including remote image interpretation and further use of samples for scientific research. Histopathological image classification is crucial in medicine and biomedical research, providing vital insights into various diseases and conditions.
 
@@ -88,34 +78,6 @@ Digital pathology allows us to capture, manage, and share information from digit
 
 3. **Access the application**:
     Open your browser and navigate to `http://127.0.0.1:8000`
-
-## File Structure
-mini_project/
-│
-├── UI/
-│ ├── index.html
-│ ├── main.py
-│ ├── model4.h5
-│ ├── pruned_model.h5
-│ ├── quant_model.tflite
-│ └── static/
-│ ├── app.css
-│ ├── app.js
-│ ├── dropzone.min.js
-│ └── dropzone.min.css
-│
-├── py/
-│ ├── stain_utils.py
-│ ├── stainNorm_Macenko.py
-│ ├── stainNorm_Reinhard.py
-│ ├── stainNorm_Vahadane.py
-│
-├── Annotator1/ (complete data)
-│
-├── Dockerfile
-├── requirements.txt
-├── mini_project.ipynb
-└── README.md
 
 ## Contributing
 1. **Fork the repository**.
