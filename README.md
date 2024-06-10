@@ -41,8 +41,8 @@ Digital pathology allows us to capture, manage, and share information from digit
 ## Setup and Installation
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/moodle12/histopathological_image_segmentation.git
-    cd histopathological_image_segmentation
+    git clone https://github.com/vrishmi/Interactive_Histopathological_Image_Segmentation.git
+    cd Interactive_Histopathological_Image_Segmentation
     ```
 
 2. **Create and activate a virtual environment**:
